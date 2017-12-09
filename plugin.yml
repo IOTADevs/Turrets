@@ -1,0 +1,8 @@
+name: Turrets
+main: iOTADevs\Turrets\Main
+version: 1.0.0
+api: [3.0.0-ALPHA9, 3.0.0-ALPHA10]
+load: STARTUP
+author: iOTADevs
+description: "[HALF-LIFE PORTALS] TURRETS!"
+website: http://iotadevs.github.io
