@@ -17,7 +17,7 @@
  * GNU Affero General Public License for more details.
  *
  * You should have received a copy of the GNU Affero General Public License
- * along with TeaSpoon.  If not, see <http://www.gnu.org/licenses/>.
+ * along with "Turrets".  If not, see <http://www.gnu.org/licenses/>.
  *
  * @author iOTADevs
  * @link http://iotadevs.github.io
