@@ -1,4 +1,4 @@
-# Turrets
+# Turrets [![Poggit](https://poggit.pmmp.io/ci.shield/IOTADevs/Turrets/~)](https://poggit.pmmp.io/ci/IOTADevs/Turrets/~)
 A Portals 2 Inspired Turret plugin for PMMP!
 
 Most of the code here is by @CortexPE :joy:
