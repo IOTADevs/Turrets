@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/IOTADevs/Turrets
+branches:
+- master
+projects:
+  Turrets:
+    path: ""
+...
